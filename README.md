@@ -19,7 +19,7 @@ Tools for creating clickable, self-guided product demos for websites, sales, onb
 
 | Tool | Best for |
 | --- | --- |
-| **[Joydemo](https://joydemo.com)** | AI-powered demos from web app workflows, with unlimited demos and views for free — no coding or video editing required. |
+| **[JoyDemo](https://joydemo.com)** | AI-powered demos from web app workflows, with unlimited demos and views for free — no coding or video editing required. |
 | **[Arcade](https://www.arcade.so)** | Fast, attractive demos made from product flows, hotspots, and annotations. |
 | **[Supademo](https://supademo.com)** | Guided interactive demos for marketing, sales, support, and onboarding. |
 | **[Storylane](https://www.storylane.io)** | No-code screenshot and HTML demos for marketing and sales. |
